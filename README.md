@@ -21,6 +21,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yeraldi29&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeraldi29&theme=dark"/>
-
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNqZ254YXFsNXFseWlpeTdnY2V6M2Fkemo5MDc3NHFwbXJ1Nzk0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIeCLkB8geYtW/giphy.gif" alt="GIF" />
